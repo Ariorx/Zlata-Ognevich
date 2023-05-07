@@ -1,4 +1,5 @@
  
+ 
 html {
     font-size: 30px;
     font-family: 'Open Sans', sans-serif;
@@ -18,13 +19,13 @@ html {
   
   
   html {
-    background-color: #1E434C;
+    background-color: #b95759;
   }
   
   body {
     width: 600px;
     margin: 0 auto;
-    background-color: #662E1C;
+    background-color: #764e80;
     padding: 0 20px 20px 20px;
     border: 5px solid black;
   }
@@ -32,7 +33,11 @@ html {
   h1 {
     margin: 0;
     padding: 20px 0;
-    color: #5005;
+    color: #ADD4E4;
+    text-shadow: 3px 3px 1px black;
+  }
+  
+
     text-shadow: 3px 3px 1px black;
   }
   
